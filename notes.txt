@@ -1,7 +1,7 @@
 python module "ta" can be used to get indicator values..
 
 ( https://technical-analysis-library-in-python.readthedocs.io/en/latest/ )
-
+( https://technical-analysis-library-in-python.readthedocs.io/en/latest/genindex.html )
 
 import pandas as pd
 from ta.utils import dropna
